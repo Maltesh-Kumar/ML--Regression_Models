@@ -1,0 +1,3 @@
+- Polynomial regression works on the degree to which the polynomial feature is expressed
+- The more the degree, the more sensitive the model reacting to change in prediction data
+- These type of model are used when there is no linear relationship between 2 features 
